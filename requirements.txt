@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+tiktoken
+chromadb
+pypdf
+sentence-transformers
+jinja2
+InstructorEmbedding
